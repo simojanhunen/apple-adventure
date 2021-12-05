@@ -1,0 +1,11 @@
+{
+    "name": "apple_adventure",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^16.0.4"
+    }
+}
